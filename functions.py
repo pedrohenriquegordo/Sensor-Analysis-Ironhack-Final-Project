@@ -23,7 +23,7 @@ from sklearn.preprocessing import MinMaxScaler
 #Connection to mysql
 from sqlalchemy import create_engine
 user = 'root'
-password = 'Martins.7'
+password = '******'
 host = 'localhost'
 port = 3306
 database = 'final_project_database'
